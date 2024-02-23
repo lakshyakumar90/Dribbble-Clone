@@ -509,6 +509,7 @@ body {
 #page4 h3 a {
   text-decoration: underline;
   color: black;
+  background-color: transparent;
 }
 
 #scroll {
