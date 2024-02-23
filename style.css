@@ -956,7 +956,7 @@ body {
   }
 
   #container .elem .overlay {
-    height: 33%;
+    height: 31%;
   }
 
   #container .elem .title {
@@ -1035,11 +1035,11 @@ body {
   }
 
   #scroll-container {
-    width: 184%;
+    width: fit-content;
   }
 
   #scroll-container .scroll-box {
-    width: 25vw;
+    width: 30vw;
   }
 
   #footer {
@@ -1212,7 +1212,7 @@ body {
   }
 
   #page2 {
-    height: 63%;
+    height: 52%;
     width: 100%;
   }
 
@@ -1227,7 +1227,7 @@ body {
   }
 
   #container .elem .overlay {
-    height: 33%;
+    height: 27%;
   }
 
   #container .elem .title {
@@ -1308,7 +1308,7 @@ body {
   }
 
   #scroll {
-    height: 35vh;
+    height: 33vh;
   }
 
   #scroll-container {
@@ -1504,7 +1504,7 @@ body {
   }
 
   #page2 {
-    height: 50%;
+    height: 40%;
     width: 100%;
   }
 
@@ -1590,7 +1590,7 @@ body {
   }
 
   #scroll {
-    height: 32vh;
+    height: 26vh;
   }
 
   #scroll-container {
